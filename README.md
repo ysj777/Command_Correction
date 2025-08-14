@@ -22,6 +22,7 @@ pip install -r requirements.txt
 ├── system.py # 整體流程效能測試 (Accuracy)
 ├── LLM.ipynb # 大型語言模型效能測試
 ├── requirements.txt # 套件需求列表
+├── README.md # 使用說明 
 ```
 
 ## 執行主程式
